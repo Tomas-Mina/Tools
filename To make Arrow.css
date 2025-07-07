@@ -1,0 +1,9 @@
+/* first */
+::before{
+  content: "";
+  border-width: 10px;
+  border-style: solid;
+  border-color: red green blue black;
+}
+
+/* then you make all color transparent except direction you want */
